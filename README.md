@@ -1,2 +1,2 @@
 # C
-progress
+just learn
